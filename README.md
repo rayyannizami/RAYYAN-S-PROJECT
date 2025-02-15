@@ -26,7 +26,7 @@ Step 3 - Tareget is to kill the pig and win the game
 
 
 
-# Raceing Game
+# Racing Game
 
 Step 1 - Created a Racing game using Scratch
 
@@ -35,3 +35,16 @@ Step 2 - Used coding blocks to develop the game
 Step 3 - Racing game shows the racing of two cars
 
 ![](https://github.com/rayyannizami/RAYYAN-S-PROJECT/blob/main/Images/Screenshot%202025-02-15%20154952.png)
+
+
+
+ # Speace Game
+
+Step 1 - Created a space game where user has to kill objects in order to save the planet
+
+Step 2 - This game is developed using coding blocks on scratch
+
+Step 3 - The game overs if you touch all the objects
+
+![]
+)
