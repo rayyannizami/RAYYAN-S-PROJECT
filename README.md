@@ -34,4 +34,4 @@ Step 2 - Used coding blocks to develop the game
 
 Step 3 - Racing game shows the racing of two cars
 
-1[](https://github.com/rayyannizami/RAYYAN-S-PROJECT/blob/main/Images/Screenshot%202025-02-15%20154952.png)
+![](https://github.com/rayyannizami/RAYYAN-S-PROJECT/blob/main/Images/Screenshot%202025-02-15%20154952.png)
