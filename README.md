@@ -46,5 +46,13 @@ Step 2 - This game is developed using coding blocks on scratch
 
 Step 3 - The game overs if you touch all the objects
 
-![]
-)
+![](https://github.com/rayyannizami/RAYYAN-S-PROJECT/blob/main/Images/Screenshot%202025-02-15%20154827.png)
+
+![](https://github.com/rayyannizami/RAYYAN-S-PROJECT/blob/main/Images/Screenshot%202025-02-15%20154835.png)
+
+![](https://github.com/rayyannizami/RAYYAN-S-PROJECT/blob/main/Images/Screenshot%202025-02-15%20154844.png)
+
+![](https://github.com/rayyannizami/RAYYAN-S-PROJECT/blob/main/Images/Screenshot%202025-02-15%20154844.png)
+
+
+
