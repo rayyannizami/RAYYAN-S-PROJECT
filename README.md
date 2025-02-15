@@ -23,3 +23,15 @@ Step 2 - The game uses fully functional code to take anger bird towards pig
 Step 3 - Tareget is to kill the pig and win the game
 
 ![](https://github.com/rayyannizami/RAYYAN-S-PROJECT/blob/main/Images/Screenshot%202025-02-08%20170712.png)
+
+
+
+# Raceing Game
+
+Step 1 - Created a Racing game using Scratch
+
+Step 2 - Used coding blocks to develop the game
+
+Step 3 - Racing game shows the racing of two cars
+
+1[](https://github.com/rayyannizami/RAYYAN-S-PROJECT/blob/main/Images/Screenshot%202025-02-15%20154952.png)
